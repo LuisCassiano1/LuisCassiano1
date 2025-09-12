@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá! Eu sou Luis 👋</h1>
 
 <p align="center">
 Desenvolvedor apaixonado por tecnologia, com foco em <strong>Java</strong> e <strong>Spring Boot</strong>.  
@@ -43,16 +43,15 @@ Buscando oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Est
 - 🔗 [**Tchomp - Sistema de Cupons e Restaurantes**](https://github.com/seu-usuario/tchomp)  
   Sistema desenvolvido em **Spring Boot + Thymeleaf**, onde usuários podem se cadastrar, visualizar restaurantes e gerar cupons de desconto.  
   Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
-
-- 🔗 [**Outro Projeto**](https://github.com/seu-usuario/projeto2)  
-  Descrição curta do que faz. Tecnologias: `HTML`, `CSS`, `JavaScript`
+🔗 [**ReAproveita - Rede Social de Culinária Sustentável**](https://github.com/seu-usuario/reaproveita)  
+  Plataforma colaborativa onde usuários podem compartilhar receitas e ideias criativas para reaproveitar alimentos que normalmente seriam descartados, como transformar cascas, talos e sobras em pratos saborosos e nutritivos.  
+  O objetivo é **reduzir o desperdício**, **popularizar comidas caseiras** e incentivar práticas de **consumo consciente**.  
+  Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
 
 ---
 
 ### 📫 Como me encontrar
 
-- ✉️ Email: [seuemail@email.com](mailto:seuemail@email.com)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🌐 Portfólio: [seusite.dev](https://seusite.dev) *(se tiver)*
+- ✉️ Email: [Luiscassiano3706@gmail.com](mailto:Luiscassiano3706@gmail.com)
+- 💼 LinkedIn: https://br.linkedin.com/in/luis-eduardo-cassiano-965803265
 
----
