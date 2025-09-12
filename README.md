@@ -40,10 +40,10 @@ Buscando oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Est
 
 ### 📂 Projetos em Destaque
 
-- 🔗 [**Tchomp - Sistema de Cupons e Restaurantes**](https://github.com/seu-usuario/tchomp)  
+- 🔗 [**Tchomp - Sistema de Cupons e Restaurantes**](https://github.com/LuisCassiano1/role-seguro-TCC)  
   Sistema desenvolvido em **Spring Boot + Thymeleaf**, onde usuários podem se cadastrar, visualizar restaurantes e gerar cupons de desconto.  
   Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
-🔗 [**ReAproveita - Rede Social de Culinária Sustentável**](https://github.com/seu-usuario/reaproveita)  
+🔗 [**ReAproveita - Rede Social de Culinária Sustentável**](https://github.com/LuisCassiano1/reaproveita)  
   Plataforma colaborativa onde usuários podem compartilhar receitas e ideias criativas para reaproveitar alimentos que normalmente seriam descartados, como transformar cascas, talos e sobras em pratos saborosos e nutritivos.  
   O objetivo é **reduzir o desperdício**, **popularizar comidas caseiras** e incentivar práticas de **consumo consciente**.  
   Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
