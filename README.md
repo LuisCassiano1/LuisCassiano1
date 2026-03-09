@@ -1,22 +1,22 @@
-<h1 align="center">Olá! Eu sou Luis 👋</h1>
+<h1 align="center">Hi! I'm Luis 👋</h1>
 
 <p align="center">
-Desenvolvedor apaixonado por tecnologia, com foco em <strong>Java</strong> e <strong>Spring Boot</strong>.  
-Buscando oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Estagiário</strong> em tecnologia.
+Developer passionate about technology, focusing on <strong>Java</strong> and <strong>Spring Boot</strong>.  
+Seeking opportunities as a <strong>Junior Developer</strong> or <strong>Tech Intern</strong>.
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-- 💼 Em busca da **minha primeira oportunidade** na área de desenvolvimento
-- 📚 Estudando atualmente: **Spring Boot, JPA/Hibernate, Thymeleaf e Segurança com Spring Security**
-- 🛠️ Tenho trabalhado em projetos usando: **Java, Spring Boot, HTML, CSS, Bootstrap e Thymeleaf**
-- 🚀 Apaixonado por aprender, resolver problemas e criar soluções que impactem o dia a dia das pessoas
+- 💼 Seeking my **first opportunity** in the software development field
+- 📚 Currently studying: **Spring Boot, JPA/Hibernate, Thymeleaf, and Spring Security**
+- 🛠️ Building projects with: **Java, Spring Boot, HTML, CSS, Bootstrap, and Thymeleaf**
+- 🚀 Passionate about learning, problem-solving, and building solutions that impact people's daily lives
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🧰 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
@@ -38,20 +38,20 @@ Buscando oportunidade como <strong>Desenvolvedor Júnior</strong> ou <strong>Est
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Featured Projects
 
-- 🔗 [**Tchomp - Sistema de Cupons e Restaurantes**](https://github.com/LuisCassiano1/role-seguro-TCC)  
-  Sistema desenvolvido em **Spring Boot + Thymeleaf**, onde usuários podem se cadastrar, visualizar restaurantes e gerar cupons de desconto.  
-  Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
-🔗 [**ReAproveita - Rede Social de Culinária Sustentável**](https://github.com/LuisCassiano1/reaproveita)  
-  Plataforma colaborativa onde usuários podem compartilhar receitas e ideias criativas para reaproveitar alimentos que normalmente seriam descartados, como transformar cascas, talos e sobras em pratos saborosos e nutritivos.  
-  O objetivo é **reduzir o desperdício**, **popularizar comidas caseiras** e incentivar práticas de **consumo consciente**.  
-  Tecnologias: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
+- 🔗 [**Tchomp - Coupons & Restaurant System**](https://github.com/LuisCassiano1/role-seguro-TCC)  
+  A system developed using **Spring Boot + Thymeleaf**, allowing users to register, discover local restaurants, and generate discount coupons.  
+  Technologies: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
+
+- 🔗 [**ReAproveita - Sustainable Cooking Social Network**](https://github.com/LuisCassiano1/reaproveita)  
+  A collaborative platform where users share recipes and creative ideas to reuse food parts often discarded, such as peels, stalks, and leftovers, turning them into nutritious meals.  
+  The goal is to **reduce waste**, **promote home cooking**, and encourage **conscious consumption**.  
+  Technologies: `Java`, `Spring Boot`, `JPA/Hibernate`, `Thymeleaf`, `Bootstrap`.
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Let's Connect
 
 - ✉️ Email: [Luiscassiano3706@gmail.com](mailto:Luiscassiano3706@gmail.com)
-- 💼 LinkedIn: https://br.linkedin.com/in/luis-eduardo-cassiano-965803265
-
+- 💼 LinkedIn: [https://br.linkedin.com/in/luis-eduardo-cassiano-965803265](https://br.linkedin.com/in/luis-eduardo-cassiano-965803265)
